@@ -1,0 +1,9 @@
+/out
+bin/
+build/
+/.vs
+.idea/
+CMakeSettings.json
+CMakePresets.json
+deps/vulkan
+*.stackdump

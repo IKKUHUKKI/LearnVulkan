@@ -1,0 +1,3 @@
+[submodule "GLFW"]
+	path = deps/glfw
+	url = https://github.com/glfw/glfw.git
